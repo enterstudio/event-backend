@@ -59,7 +59,7 @@
     "mongoose-geojson": "0.0.4",
     "morgan": "^1.9.0",
     "multer": "^1.1.0",
-    "newrelic": "^1.26.2",
+    "newrelic": "^5.13.1",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.0",
     "passport-github2": "^0.1.11",
